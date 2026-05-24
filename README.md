@@ -1,6 +1,10 @@
-# Splitwise Low-Level Design
+# splitwise-lld-java
 
 A Spring Boot implementation of a Splitwise-style expense sharing system. The project models users, groups, expenses, per-user expense shares, and settlement transactions using a layered backend structure.
+
+## Portfolio Role
+
+This repository is maintained by Mamani Kedarnath as a Java low-level design portfolio project focused on object modeling, layered service design, and expense settlement workflows.
 
 ## Tech Stack
 
